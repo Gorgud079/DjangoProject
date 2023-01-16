@@ -1,2 +1,2 @@
-# chatBOT
-FIRST telegram chat bot
+# DjangoProject
+FIRST web project  
